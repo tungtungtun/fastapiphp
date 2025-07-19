@@ -1,0 +1,17 @@
+cookies = {
+    'wordpress_sec_7507f92267ba699b780a1d5b6a731630': 'siyina3452%7C1754093917%7C1gttZH0s6rKLXDFN1TZ7YXDmLlEVcpKN1iGtIHhgPOs%7C63997435dbbbe98e2b30d035fa9912d07969d16dc329efd31f959c73959503df',
+    'viwpvs_loop_position': 'after_price',
+    'wc_prl_deployments_clicked': '',
+    'wc_prl_recently_viewed': '',
+    '_gcl_au': '1.1.1907911644.1752884247',
+    '_ga_PRBMC1XQMY': 'GS2.1.s1752884247$o1$g1$t1752884749$j59$l0$h0',
+    '_ga': 'GA1.1.364542441.1752884247',
+    '_tt_enable_cookie': '1',
+    '_ttp': '01K0G0NZ1YRDS26TE61JA4G1W4_.tt.1',
+    'ttcsid_CJNPH5BC77UDVQ8J29M0': '1752884247616::j1mbl7NWUR-2ZaR3-vne.1.1752884746915',
+    'ttcsid': '1752884247617::bTqFUA2z5P8sz_d_oi18.1.1752884550682',
+    '__kla_id': 'eyJjaWQiOiJOak16TlRNM1l6QXRZV05pTnkwME1UWmxMV0V4TVRjdE5ETTRaVGxpTURjNE16azUiLCIkZXhjaGFuZ2VfaWQiOiJpUTdBb3ktWlJ4ejdSUmxmbndGUTFjQ2lNZUhnOGxXekJUMjI1aWd6MDdFLlZ6QzRTNiJ9',
+    '_fbp': 'fb.1.1752884248380.308508214149326708',
+    'wordpress_logged_in_7507f92267ba699b780a1d5b6a731630': 'siyina3452%7C1754093917%7C1gttZH0s6rKLXDFN1TZ7YXDmLlEVcpKN1iGtIHhgPOs%7C2ab189079efa6fa17a73f52c4ef581f6b0fa1694ea3dfbd2696102d12765bb15',
+}
+
