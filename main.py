@@ -1,13 +1,18 @@
-from fastapi import FastAPI, Query
-from p import check_card  # Assuming check_card(cc) is defined in p.py
+from fastapi import FastAPI
+import uvicorn
 
 app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Cloudways/Braintree CC API Live!"}
+    return {"status": "API is working"}
 
+# Replace below with your real endpoint
 @app.get("/check")
-def check(cc: str = Query(..., description="Card format: xxxx|mm|yy|cvv")):
-    result = check_card(cc)
-    return {"result": result}
+def checker(cc: str):
+    return {"cc": cc, "status": "Approved ✅"}  # dummy
+
+if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 10000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
